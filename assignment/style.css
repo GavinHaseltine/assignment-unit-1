@@ -11,7 +11,7 @@ h1 {
     text-align: center;
 }
 /* Make your p tag a different color and italic */
-p {
+footer {
     color: aquamarine;
     font-style: italic;
     background-color: black;
